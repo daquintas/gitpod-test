@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL maintainer="docker@couchbase.com"
+LABEL maintainer="david.quintasvilanova@couchbase.com"
 
 # Install dependencies:
 #  runit: for container process management
